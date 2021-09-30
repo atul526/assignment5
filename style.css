@@ -1,0 +1,12 @@
+body{
+    background-image: url(./bg.jpg);
+    background-position: bottom;
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h3,h4{
+    color: white;
+}
